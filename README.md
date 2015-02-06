@@ -1,0 +1,2 @@
+# mz
+personal c++ project
